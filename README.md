@@ -2,8 +2,8 @@
 
 
 ## Notes
-* backend runs on localhost: 8000
-* frontend runs on localhost: 3000
+* backend runs on **localhost:8000/api**
+* frontend runs on **localhost:3000**
 
 
 ## Steps
