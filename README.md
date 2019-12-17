@@ -1,9 +1,4 @@
-# Events Booking Api using Graphql, Node.js (Express), React & MongoDb
-
-![GraphQL](https://avatars2.githubusercontent.com/u/13958777?s=50&v=4)  
-![Node](https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg | height=50)  
-![React](https://cdn.worldvectorlogo.com/logos/react.svg | height=50)  
-![MongoDb](https://cdn.worldvectorlogo.com/logos/mongodb.svg | height=50)  
+# Events Booking Api using Graphql ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png), Node.js (Express) ![Node](https://img.icons8.com/color/48/000000/nodejs.png), React ![React](https://img.icons8.com/ultraviolet/48/000000/react.png) & MongoDb ![MongoDb](https://img.icons8.com/color/48/000000/mongodb.png)
 
 
 ## Notes
@@ -16,7 +11,7 @@
 https://www.youtube.com/watch?v=ugI1riTacbw
 
 
-1. update the backend ```nodemon.js``` file with your values
+2. update the backend ```nodemon.js``` file with your values
 ```javascript
 "env": {
   "MONGO_USER": "YOUR MONGO USERNAME",
@@ -26,7 +21,7 @@ https://www.youtube.com/watch?v=ugI1riTacbw
 }
 ```
 
-1. Run backend:
+3. Run backend:
  ```bash
 cd backend
 npm start
@@ -35,7 +30,7 @@ go to:
 ```http://localhost:8000/api```
 
 
-1. Run backend
+4. Run backend
  ```bash
 cd frontend
 npm start
@@ -44,7 +39,7 @@ go to:
 ```http://localhost:3000/```
 
 
-1. Play around with the UI
+5. Play around with the UI
 * create an account (can use fake emails, no email confirmations sent)
 * login and create some Events
 * logout
